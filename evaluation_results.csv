@@ -1,0 +1,7 @@
+Metric,Value
+Avg Latency (PPO),100.1573445264571
+Avg Latency (Threshold),100.0
+Deviation (%),0.15734452645709496
+p95 Latency (PPO),100.0
+p95 Latency (Threshold),100.0
+p95 Deviation (%),0.0
